@@ -54,6 +54,7 @@ Elenco dei principali pacchetti installati in questo progetto:
 - Axios: Un client HTTP basato su promesse per il browser e node.js.
 - postcss
 - autoprefixer
+- FontAwesome
 
 ## Versione
 
